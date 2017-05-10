@@ -7,7 +7,7 @@ public class lightbulb {
 	public  lightbulb(int incap) {
 		this.watt= incap;
 		
-		System.out.println("Hello");
+		System.out.println("Eclipse Java");
 		
 	}
 	public void addcap(int power){
